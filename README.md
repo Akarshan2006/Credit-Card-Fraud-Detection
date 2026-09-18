@@ -37,6 +37,17 @@ You can find the dataset here: [Kaggle - Credit Card Fraud Detection](https://ww
 ## 🚀 How to Run
 
 1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Akarshan2006/Credit-Card-Fraud-Detection.git
+   cd Credit-Card-Fraud-Detection
+   ```
 
-```bash
+2. **Install Dependencies**
+   ```bash
+   pip install numpy pandas scikit-learn
+   ```
 
+3. **Run the Model**
+   ```bash
+   python "Credit card.py"
+   ```
