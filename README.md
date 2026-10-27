@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection using Machine Learning 
 
-This project aims to detect fraudulent credit card transactions using a machine learning model. We use logistic regression for binary classification, with a focus on dealing with class imbalance and ensuring accurate detection of rare fraud cases..
+This project aims to detect fraudulent credit card transactions using a machine learning model. We use logistic regression for binary classification, with a focus on dealing with class imbalance and ensuring accurate detection of rare fraud cases.
 
 ---
 
