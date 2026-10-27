@@ -4,7 +4,7 @@ This project aims to detect fraudulent credit card transactions using a machine 
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 - Load and preprocess the dataset
 - Split data into training and testing sets
